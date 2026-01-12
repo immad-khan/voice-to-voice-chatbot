@@ -8,7 +8,7 @@ Original file is located at
 """
 // Walkthorugh
 !pip install gradio openai-whisper groq gTTS unidecode
-
+//hello, this change was made by OMAR FAROOQ MALIK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 import os
 import gradio as gr
 import whisper
